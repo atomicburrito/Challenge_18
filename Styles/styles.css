@@ -1,0 +1,28 @@
+/* index-styles */
+
+
+
+.txtr {
+    width: 25%;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+#sample1 {
+    padding: 25px, 5px, 25px, 5px;
+    margin: 25px;
+    border: 5px;
+    border-color:crimson;
+}
+
+/* DEBUG
+.container {
+    width: 25%;
+    height: 150px;
+    display: inline-block;
+}
+*/
+
